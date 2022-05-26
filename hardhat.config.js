@@ -43,13 +43,13 @@ module.exports = {
     },
     testnet: {
       url: "",
-      chainId: 1,
+      chainId: 0,
       gasPrice: 500000000000,
       accounts: {mnemonic: MNEMONIC}
     },
     mainnet: {
       url: "",
-      chainId: 1,
+      chainId: 0,
       gasPrice: 500000000000,
       accounts: {mnemonic: MNEMONIC}
     }
